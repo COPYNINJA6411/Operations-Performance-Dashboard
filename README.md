@@ -5,6 +5,8 @@ This is my customized version of a Power BI dashboard originally inspired by ope
 It analyzes supply chain KPIs like delivery performance, sales trends, and late orders.  
 I modified visuals, themes, and structure to make it unique.
 
+Dataset used: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
+
 ---
 
 ## 🚀 Features
@@ -26,7 +28,9 @@ I modified visuals, themes, and structure to make it unique.
 
 ---
 
+![WhatsApp Image 2025-09-04 at 23 53 26_84fb60fe](https://github.com/user-attachments/assets/1add2313-257a-4434-9979-7d06b86d5f93)
 
+![WhatsApp Image 2025-09-04 at 23 53 26_eaa3c8f0](https://github.com/user-attachments/assets/59cb0e34-80ed-4190-b5ed-95db06cbfd64)
 
 ---
 
